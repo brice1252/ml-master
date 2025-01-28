@@ -1,14 +1,37 @@
-# Machine Learning Educational Codes
+# ML Master Repository  
 
-This repository contains educational machine learning projects and code examples, designed for both personal learning and teaching purposes. The codes are intended to demonstrate various machine learning concepts and models.  
+This repository contains educational machine learning codes for both personal learning and use in student classes. Various machine learning algorithms, along with their respective datasets, are included in this repository.
 
-## Current Content:
-- Linear Regression  
+## 📂 Current Content
+1. **Linear Regression:** Implementation of linear regression for data prediction  
+2. **K-Nearest Neighbors (KNN):** K-Nearest Neighbors algorithm with two different datasets  
 
-## Upcoming Content:
-- K-Nearest Neighbors (KNN)  
-- K-Means Clustering  
-- Decision Tree  
-- And more...  
+### 📊 Datasets
+- **car.data:** Dataset containing car-related information  
+- **student.csv:** Dataset containing student information  
 
-Feel free to explore the codes and use them for your learning journey or in classes.
+## 🎯 Future Plans  
+- Adding codes for the following algorithms:  
+  - K-Means Clustering  
+  - Decision Tree  
+  - Support Vector Machines (SVM)  
+  - And more...
+
+---
+
+## 📢 Usage Guide  
+Students can download the necessary codes and datasets from this repository for their practice and analyses.
+
+## 🚀 How to Run
+1. Clone the repository:
+    ```bash
+    git clone https://github.com/brice1252/ml-master.git
+    ```
+2. Navigate to the project directory:
+    ```bash
+    cd ml-master
+    ```
+3. Run the Jupyter Notebook files using:
+    ```bash
+    jupyter notebook
+    ```
