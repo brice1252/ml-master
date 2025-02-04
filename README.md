@@ -4,20 +4,15 @@ This repository contains educational machine learning codes for both personal le
 
 ## 📂 Current Content
 1. **Linear Regression:** Implementation of linear regression for data prediction  
-2. **K-Nearest Neighbors (KNN):** K-Nearest Neighbors algorithm with two different datasets  
+2. **K-Nearest Neighbors (KNN):** K-Nearest Neighbors algorithm with two different datasets
+3. **Decision Tree:** Classification and prediction using the Decision Tree algorithm
 
 ### 📊 Datasets
 - **car.data:** Dataset containing car-related information  
-- **student.csv:** Dataset containing student information  
+- **student.csv:** Dataset containing student information
+- **processed.cleveland.data:** Heart disease dataset for medical data analysis 
 
-## 🎯 Future Plans  
-- Adding codes for the following algorithms:  
-  - K-Means Clustering  
-  - Decision Tree  
-  - Support Vector Machines (SVM)  
-  - And more...
 
----
 
 ## 📢 Usage Guide  
 Students can download the necessary codes and datasets from this repository for their practice and analyses.
