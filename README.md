@@ -6,7 +6,9 @@ This repository contains educational machine learning codes for both personal le
 1. **Linear Regression:** Implementation of linear regression for data prediction  
 2. **K-Nearest Neighbors (KNN):** K-Nearest Neighbors algorithm with two different datasets
 3. **Decision Tree:** Classification and prediction using the Decision Tree algorithm
+4. **Support Vector Machine (SVM):** Classification and prediction using the SVM algorithm implemented with four different kernels (linear, polynomial, radial basis function (RBF), and sigmoid) on the Breast Cancer dataset.
 
+   
 ### 📊 Datasets
 - **car.data:** Dataset containing car-related information  
 - **student.csv:** Dataset containing student information
